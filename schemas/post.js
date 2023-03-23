@@ -87,6 +87,11 @@ export default {
       name: 'body',
       type: 'blockContent',
       title: 'Body',
-    }
+    },
+    {
+      name: 'visited',
+      type: 'date',
+      title: 'Visited',
+    },
   ]
 };
